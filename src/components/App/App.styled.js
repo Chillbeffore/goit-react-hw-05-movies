@@ -28,6 +28,6 @@
 
 //   &.active {
 //     color: white;
-//     background-color: orangered;
+//     background-color: blue;
 //   }
 // `;
